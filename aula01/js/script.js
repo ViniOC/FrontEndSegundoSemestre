@@ -42,3 +42,5 @@ const vendedores = [
     { nome: 'Marcelo', idade: '23', vendas: 3 },
     { nome: 'Henrique', idade: '22', vendas: 9 },
 ]
+
+const totalVendas = vendedores.reduce((acumulado))
