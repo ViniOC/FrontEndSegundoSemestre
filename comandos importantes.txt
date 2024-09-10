@@ -1,0 +1,3 @@
+npm install styled-components react-router-dom
+
+npm create vite@latest .
